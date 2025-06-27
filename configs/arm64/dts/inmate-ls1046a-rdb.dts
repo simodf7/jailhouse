@@ -9,7 +9,7 @@
 
 /dts-v1/;
 
-#include <dt-bindings/interrupt-controller/arm-gic.h>
+#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
 
 / {
 	compatible = "fsl,ls1046a-rdb", "fsl,ls1046a";

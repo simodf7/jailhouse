@@ -13,7 +13,7 @@
  * the COPYING file in the top-level directory.
  */
 
-#include <dt-bindings/interrupt-controller/arm-gic.h>
+#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
 
 /dts-v1/;
 

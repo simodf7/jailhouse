@@ -1,6 +1,6 @@
 /dts-v1/;
 
-#include <dt-bindings/interrupt-controller/arm-gic.h>
+#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
 
 / {
 	model = "Texas Instruments AM625 Inmate Model";
