@@ -8,9 +8,9 @@
 /dts-v1/;
 
 
-#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
-#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/input/input.h"
-#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/gpio/gpio.h"
+#include "../../../../../../lib/modules/4.14.98-imx/build/include/dt-bindings/interrupt-controller/arm-gic.h"
+#include "../../../../../../lib/modules/4.14.98-imx/build/include/dt-bindings/input/input.h"
+#include "../../../../../../lib/modules/4.14.98-imx/build/include/dt-bindings/gpio/gpio.h"
 
 #define TI_SCI_PD_EXCLUSIVE	1
 

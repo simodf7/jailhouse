@@ -5,7 +5,7 @@
 
 /dts-v1/;
 
-#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
+#include "../../../../../../lib/modules/4.14.98-imx/build/include/dt-bindings/interrupt-controller/arm-gic.h"
 
 / {
 	model = "Freescale i.MX8MN EVK";

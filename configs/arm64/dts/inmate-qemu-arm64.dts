@@ -12,8 +12,7 @@
  * This work is licensed under the terms of the GNU GPL, version 2.  See
  * the COPYING file in the top-level directory.
  */
-
-#include "../../../../../../lib/modules/4.14.98-imx/dt-bindings/interrupt-controller/arm-gic.h"
+#include "../../../../../../lib/modules/4.14.98-imx/build/include/dt-bindings/interrupt-controller/arm-gic.h"
 
 /dts-v1/;
 
